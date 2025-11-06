@@ -49,7 +49,7 @@ focusing that experience on **people analytics** and **career intelligence** pro
 
 ### 📫 Find Me
 
-- LinkedIn: [https://www.linkedin.com/in/wiredforops/](https://linkedin.com/in/your-handle)
+- LinkedIn: [https://linkedin.com/in/wiredforops/](https://linkedin.com/in/your-handle)
 - Email: [im.ahmedhsn@gmail.com](mailto:you@example.com)
 
  **PS: Draft is AI generated but based on very real experiences**
