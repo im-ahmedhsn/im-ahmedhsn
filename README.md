@@ -33,7 +33,6 @@ focusing that experience on **people analytics** and **career intelligence** pro
 - 🧭 **CareerMirror** – AI-powered resume & job-fit analyzer that reads between the lines of JDs  
 - 📊 **BehaviorViz** – Tableau dashboards exploring how behavior, burnout, and environment shape outcomes  
 - 🔬 **Psychometrics Meets Pipeline** – Synthetic dataset + analysis of how rep traits affect sales performance  
-- ⚙️ **DataOps Toolbox** – Small utilities for automating analytics workflows
 
 *(Repos are being built out; I ship in public.)*
 
